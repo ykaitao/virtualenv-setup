@@ -1,2 +1,4 @@
 # virtualenv-setup
-virtualenv-setup
+'''
+pip install virtualenv
+'''
